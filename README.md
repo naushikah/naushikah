@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a)! Eu sou a Lesliê
+### alert('Hello World!');
 
 - 👩‍💻 Atualmente atuo como Full Stack Developer;
 - 🌱 Aperfeiçoando os meus conhecimentos em JavaScript;
